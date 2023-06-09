@@ -1,0 +1,7 @@
+{
+    "product_images_project_id": "ordinal-gear-387820",
+    "zone": "us-east4-a",
+    "product_name": "debian-10-buster-v20230510",
+    "source_image_family": "debian-10",
+    "image_description": "My image for user1, with nginx on board."
+  }
